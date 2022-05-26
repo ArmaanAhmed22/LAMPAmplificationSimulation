@@ -1,0 +1,22 @@
+{
+
+    "primer": {
+        "k_annealing": 500000,
+        "k_dissociation": 0.0001,
+        "concentration": 1000
+    },
+    "enzyme": {
+        "k_enzyme_SP_complex_formation": 1000,
+        "k_enzyme_SP_complex_dissociation": 10,
+        "k_nucleotide_addition": 10,
+        "k_release_product": 10,
+        "concentration": 1000
+    },
+    "nucleotide": {
+        "concentration": 1400
+    },
+    "DNA": {
+        "concentration": 0.00001
+    },
+    "assay_length": 300
+}

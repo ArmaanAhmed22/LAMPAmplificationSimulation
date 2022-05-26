@@ -1,0 +1,34 @@
+{
+    "primer_sets": [
+        {
+            "PF": {
+                "position": 240,
+                "length": 1
+            },
+            "PB": {
+                "position": 250,
+                "length": 1
+            }
+        },
+        {
+            "PF": {
+                "position": 230,
+                "length": 1
+            },
+            "PB": {
+                "position": 250,
+                "length": 1
+            }
+        },
+        {
+            "PF": {
+                "position": 220,
+                "length": 1
+            },
+            "PB": {
+                "position": 250,
+                "length": 1
+            }
+        }
+    ]
+}
